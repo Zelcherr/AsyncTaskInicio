@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AsyncTaskInicio</string>
+    <string name="imageView">logo</string>
+    <string name="et_nombre">Ingrese un nombre</string>
+    <string name="et_Password">Ingrese una Contraseña</string>
+    <string name="btn_inicioSesion">Iniciar Sesion</string>
+    <string name="descr">Descripcion</string>
+
+    <string name="et_resultado">Bienvenido</string>
+</resources>
